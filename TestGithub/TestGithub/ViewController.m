@@ -19,6 +19,13 @@
     // Do any additional setup after loading the view, typically from a nib.
 }
 
+
+- (void)test01{
+    NSLog(@"test01");
+}
+
+
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
